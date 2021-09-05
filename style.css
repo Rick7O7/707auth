@@ -1,0 +1,126 @@
+/*!
+ * 707web v3.0.1
+ * Homepage: https://707.ink
+ * Copyright 2012-2021 707.ink
+ * Developer: Rick.7O7#0002
+ * Owned by 707
+*/
+@font-face {
+    font-family: "Brutal Type Light";
+    src: url("https://707auth.com/Brutal_Type_Light.ttf");
+
+}
+body{
+    background-color: #2F3136;
+    color: white;
+    font-family: Arial;
+}
+.centrum{
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 100%;
+    color: white;
+    font-family: Arial;
+    background-color: #36393F;
+    padding:auto;
+}
+.Profil{
+    max-height: 70px;
+    max-width: 200px;
+    background-color: #484b52;
+    bottom: 0;
+    border: 1px solid;
+    border-color: violet;
+    border-radius: 10px;
+    padding: 2px;
+    margin-left: 100px;
+}.username{
+     margin-left: 70px;
+ }
+.pimg{
+    border: 2px solid;
+    border-color: rgb(61, 252, 156);
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 70px;
+    height: 70px;
+
+}
+.main{
+    width: 600px;
+    height: 800px;
+}
+.sidebar{
+    height: 100%;
+    width: 90px;
+    background-color: #484b52;
+}
+.server-img{
+    margin-top: 100px;
+}
+.form{
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-bottom: 20px;
+    background-color: #2b2b2b;
+}
+.err{
+    color:#fa5651;
+}
+.main_profil{
+    margin: 50px;
+    width: 500px;
+    background-color: #2b2b2b;
+    padding: 20px;
+    border-radius: 15px;
+    margin-left: 90px;
+}
+.top_profil{
+    background-color: #222;
+    padding: 10px;
+    border-radius: 15px;
+}
+#formFile{
+    margin-top: 20px;
+}
+#staticEmail{
+    background-color: rgb(66, 66, 66);
+    border-radius: 5px;
+    padding-left: 5px;
+}
+.left_profil{
+    position: relative;
+    margin: 50px;
+    width: 500px;
+    background-color: #2b2b2b;
+    padding: 20px;
+    border-radius: 15px;
+    left:600px;
+    top: -873px;
+}
+.amounts{
+    font-family: Brutal Type Light;
+}
+#admincode{
+    background-color: rgb(66, 66, 66);
+    border-radius: 5px;
+    padding-left: 5px;
+}
+#sxc_input{
+    background-color: rgb(66, 66, 66);
+    border-radius: 5px;
+    padding-left: 5px;
+}
+.bottom_profil{
+    margin: 50px;
+    width: 500px;
+    background-color: #2b2b2b;
+    padding: 20px;
+    border-radius: 15px;
+
+}
